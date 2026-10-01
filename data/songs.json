@@ -1,0 +1,616 @@
+{
+ "colors": {
+  "miku": "#39C5BB",
+  "rin": "#FFC400",
+  "len": "#FF9A00",
+  "luka": "#FF8FB1",
+  "gumi": "#7ED957",
+  "luo": "#66CCFF",
+  "kafu": "#B9A8E6",
+  "yuki": "#E0473F",
+  "una": "#FF7AB0",
+  "mix": "#EEE9DF"
+ },
+ "songs": [
+  {
+   "id": "ievan",
+   "title": "Ievan Polkka",
+   "p": "Otomania",
+   "year": 2007,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "S",
+   "ch": 1
+  },
+  {
+   "id": "mikumiku",
+   "title": "みくみくにしてあげる♪",
+   "p": "ika",
+   "year": 2007,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "A",
+   "ch": 1
+  },
+  {
+   "id": "koisuru",
+   "title": "恋スルVOC@LOID",
+   "p": "OSTER project",
+   "year": 2007,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "A",
+   "ch": 1
+  },
+  {
+   "id": "melt",
+   "title": "メルト",
+   "p": "ryo",
+   "year": 2007,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "S",
+   "ch": 2
+  },
+  {
+   "id": "wim",
+   "title": "ワールドイズマイン",
+   "p": "ryo",
+   "year": 2008,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "A",
+   "ch": 2
+  },
+  {
+   "id": "roshin",
+   "title": "炉心融解",
+   "p": "iroha(sasaki)",
+   "year": 2008,
+   "voice": "鏡音リン",
+   "color": "#FFC400",
+   "tier": "A",
+   "ch": 2
+  },
+  {
+   "id": "akuno",
+   "title": "悪ノ娘",
+   "p": "悪ノP",
+   "year": 2008,
+   "voice": "鏡音リン",
+   "color": "#FFC400",
+   "tier": "A",
+   "ch": 2
+  },
+  {
+   "id": "jishaku",
+   "title": "magnet",
+   "p": "minato",
+   "year": 2009,
+   "voice": "初音ミク・巡音ルカ",
+   "color": "#FF8FB1",
+   "tier": "A",
+   "ch": 2
+  },
+  {
+   "id": "jbf",
+   "title": "Just Be Friends",
+   "p": "Dixie Flatline",
+   "year": 2009,
+   "voice": "巡音ルカ",
+   "color": "#FF8FB1",
+   "tier": "A",
+   "ch": 2
+  },
+  {
+   "id": "shoushitsu",
+   "title": "初音ミクの消失",
+   "p": "cosMo@暴走P",
+   "year": 2008,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "S",
+   "ch": 2
+  },
+  {
+   "id": "matryoshka",
+   "title": "マトリョシカ",
+   "p": "ハチ",
+   "year": 2010,
+   "voice": "初音ミク・GUMI",
+   "color": "#7ED957",
+   "tier": "S",
+   "ch": 3
+  },
+  {
+   "id": "worldsend",
+   "title": "ワールズエンド・ダンスホール",
+   "p": "wowaka",
+   "year": 2010,
+   "voice": "初音ミク・巡音ルカ",
+   "color": "#39C5BB",
+   "tier": "A",
+   "ch": 3
+  },
+  {
+   "id": "mosaic",
+   "title": "モザイクロール",
+   "p": "DECO*27",
+   "year": 2010,
+   "voice": "GUMI",
+   "color": "#7ED957",
+   "tier": "A",
+   "ch": 3
+  },
+  {
+   "id": "torinoko",
+   "title": "トリノコシティ",
+   "p": "40mP",
+   "year": 2010,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "A",
+   "ch": 3
+  },
+  {
+   "id": "teddy",
+   "title": "東京テディベア",
+   "p": "Neru",
+   "year": 2011,
+   "voice": "鏡音リン",
+   "color": "#FFC400",
+   "tier": "A",
+   "ch": 3
+  },
+  {
+   "id": "senbon",
+   "title": "千本桜",
+   "p": "黒うさP",
+   "year": 2011,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "S",
+   "ch": 3
+  },
+  {
+   "id": "kagerou",
+   "title": "カゲロウデイズ",
+   "p": "じん",
+   "year": 2011,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "A",
+   "ch": 3
+  },
+  {
+   "id": "akatsuki",
+   "title": "アカツキアライヴァル",
+   "p": "Last Note.",
+   "year": 2012,
+   "voice": "初音ミク・巡音ルカ",
+   "color": "#FF8FB1",
+   "tier": "A",
+   "ch": 3
+  },
+  {
+   "id": "tyw",
+   "title": "Tell Your World",
+   "p": "livetune",
+   "year": 2012,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "S",
+   "ch": 4
+  },
+  {
+   "id": "echo",
+   "title": "ECHO",
+   "p": "Crusher-P",
+   "year": 2014,
+   "voice": "GUMI (English)",
+   "color": "#7ED957",
+   "tier": "A",
+   "ch": 4
+  },
+  {
+   "id": "onmyou",
+   "title": "阴阳先生",
+   "p": "ilem",
+   "year": 2015,
+   "voice": "洛天依・言和",
+   "color": "#66CCFF",
+   "tier": "A",
+   "ch": 4
+  },
+  {
+   "id": "lostone",
+   "title": "ロストワンの号哭",
+   "p": "Neru",
+   "year": 2013,
+   "voice": "鏡音リン",
+   "color": "#FFC400",
+   "tier": "A",
+   "ch": 4
+  },
+  {
+   "id": "suna",
+   "title": "砂の惑星",
+   "p": "ハチ",
+   "year": 2017,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "S",
+   "ch": 5
+  },
+  {
+   "id": "loki",
+   "title": "ロキ",
+   "p": "みきとP",
+   "year": 2018,
+   "voice": "鏡音リン・レン",
+   "color": "#FFC400",
+   "tier": "A",
+   "ch": 5
+  },
+  {
+   "id": "yurei",
+   "title": "幽霊東京",
+   "p": "Ayase",
+   "year": 2019,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "A",
+   "ch": 5
+  },
+  {
+   "id": "lagtrain",
+   "title": "ラグトレイン",
+   "p": "稲葉曇",
+   "year": 2020,
+   "voice": "歌愛ユキ",
+   "color": "#E0473F",
+   "tier": "A",
+   "ch": 5
+  },
+  {
+   "id": "kamippoi",
+   "title": "神っぽいな",
+   "p": "ピノキオピー",
+   "year": 2021,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "A",
+   "ch": 6
+  },
+  {
+   "id": "vampire",
+   "title": "ヴァンパイア",
+   "p": "DECO*27",
+   "year": 2021,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "A",
+   "ch": 6
+  },
+  {
+   "id": "phony",
+   "title": "フォニイ",
+   "p": "ツミキ",
+   "year": 2021,
+   "voice": "可不 (CeVIO AI)",
+   "color": "#B9A8E6",
+   "tier": "S",
+   "ch": 6
+  },
+  {
+   "id": "kokushi",
+   "title": "告死鸟",
+   "p": "ilem",
+   "year": 2026,
+   "voice": "洛天依 (ACE Studio)",
+   "color": "#66CCFF",
+   "tier": "S",
+   "ch": 6
+  },
+  {
+   "id": "romeo",
+   "title": "ロミオとシンデレラ",
+   "p": "doriko",
+   "year": 2009,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "B",
+   "ch": 2
+  },
+  {
+   "id": "uraomote",
+   "title": "裏表ラバーズ",
+   "p": "wowaka",
+   "year": 2009,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "B",
+   "ch": 2
+  },
+  {
+   "id": "nisoku",
+   "title": "二息歩行",
+   "p": "DECO*27",
+   "year": 2009,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "B",
+   "ch": 2
+  },
+  {
+   "id": "rolling",
+   "title": "ローリンガール",
+   "p": "wowaka",
+   "year": 2010,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "panda",
+   "title": "パンダヒーロー",
+   "p": "ハチ",
+   "year": 2010,
+   "voice": "GUMI",
+   "color": "#7ED957",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "amanojaku",
+   "title": "天ノ弱",
+   "p": "164",
+   "year": 2011,
+   "voice": "GUMI",
+   "color": "#7ED957",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "noushou",
+   "title": "脳漿炸裂ガール",
+   "p": "れるりり",
+   "year": 2012,
+   "voice": "初音ミク・GUMI",
+   "color": "#7ED957",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "rettou",
+   "title": "劣等上等",
+   "p": "Giga",
+   "year": 2019,
+   "voice": "鏡音リン・レン",
+   "color": "#FFC400",
+   "tier": "B",
+   "ch": 5
+  },
+  {
+   "id": "mothergoose",
+   "title": "アンノウン・マザーグース",
+   "p": "wowaka",
+   "year": 2017,
+   "voice": "初音ミク",
+   "color": "#39C5BB",
+   "tier": "S",
+   "ch": 5
+  },
+  {
+   "id": "shipu",
+   "title": "千年食谱颂",
+   "p": "H.K.君",
+   "year": 2012,
+   "voice": "洛天依",
+   "color": "#66CCFF",
+   "tier": "A",
+   "ch": 4
+  },
+  {
+   "id": "66ccff",
+   "title": "66CCFF",
+   "p": "杉田朗",
+   "year": 2012,
+   "voice": "洛天依",
+   "color": "#66CCFF",
+   "tier": "A",
+   "ch": 4
+  },
+  {
+   "id": "disco",
+   "title": "普通DISCO",
+   "p": "ilem",
+   "year": 2015,
+   "voice": "洛天依 · 言和",
+   "color": "#66CCFF",
+   "tier": "S",
+   "ch": 4
+  },
+  {
+   "id": "quanyu",
+   "title": "权御天下",
+   "p": "乌龟Sui",
+   "year": 2015,
+   "voice": "洛天依",
+   "color": "#66CCFF",
+   "tier": "B",
+   "ch": 4
+  },
+  {
+   "id": "sakuranoame",
+   "title": "桜ノ雨",
+   "p": "halyosy",
+   "year": 2008,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "poppippo",
+   "title": "ぽっぴっぽー",
+   "p": "ラマーズP",
+   "year": 2008,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "migikata",
+   "title": "右肩の蝶",
+   "p": "のりP",
+   "year": 2009,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "irohauta",
+   "title": "いろは唄",
+   "p": "銀サク",
+   "year": 2009,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "harohawayu",
+   "title": "ハロ／ハワユ",
+   "p": "ナノウ",
+   "year": 2010,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "shinkai",
+   "title": "深海少女",
+   "p": "ゆうゆ",
+   "year": 2010,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "ochame",
+   "title": "おちゃめ機能",
+   "p": "ゴジマジP",
+   "year": 2010,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "rokucho",
+   "title": "六兆年と一夜物語",
+   "p": "kemu",
+   "year": 2012,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "badend",
+   "title": "Bad∞End∞Night",
+   "p": "ひとしずくP×やま△",
+   "year": 2012,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "ichiban",
+   "title": "一半一半",
+   "p": "鸟爷",
+   "year": 2013,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "grayzone",
+   "title": "グレーゾーンにて。",
+   "p": "wowaka",
+   "year": 2009,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "brs",
+   "title": "ブラック★ロックシューター",
+   "p": "ryo",
+   "year": 2008,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "koisen",
+   "title": "恋は戦争",
+   "p": "ryo",
+   "year": 2008,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "donut",
+   "title": "ドーナツホール",
+   "p": "ハチ",
+   "year": 2013,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "iarufan",
+   "title": "いーあるふぁんくらぶ",
+   "p": "みきとP",
+   "year": 2012,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 3
+  },
+  {
+   "id": "mesmerizer",
+   "title": "メズマライザー",
+   "p": "サツキ",
+   "year": 2024,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 7
+  },
+  {
+   "id": "tingwoshuo",
+   "title": "听我说",
+   "p": "洛天依 · 央视春晚",
+   "year": 2021,
+   "voice": "",
+   "color": "#EEE9DF",
+   "tier": "B",
+   "ch": 7
+  }
+ ]
+}

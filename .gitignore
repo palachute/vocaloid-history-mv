@@ -1,0 +1,12 @@
+app/node_modules/
+out/
+backups/
+
+# 版权素材：不入库 / copyrighted media stays local
+audio/song.*
+audio/*.lrc
+audio/*.txt
+app/public/covers/*
+!app/public/covers/README.md
+app/public/chars/*
+!app/public/chars/README.md
