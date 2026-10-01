@@ -5,7 +5,7 @@
 一支**完全用代码逐帧渲染**的 MV（约 3:17 + 片尾），用 Neru《それでも僕は歌わなくちゃ》讲 VOCALOID 的发展史。
 从 1961 年 IBM 7090 第一次唱歌，到初音未来、百花齐放、走向世界、wowaka，再到 AI 歌声合成，最后回到一个问题：**VOCALOID = ?**
 
-- 成片：〔在这里填视频链接〕
+- 成片：[bilibili · BV1KSaB6KEdH](https://www.bilibili.com/video/BV1KSaB6KEdH/)
 - 制作：帕拉褚特 && Claude Opus 5.5　讲稿原案：现世妍术组
 
 > ⚠️ 本仓库**只包含代码**。歌曲音源、歌词、曲绘、歌手立绘均不随仓库分发（见 [NOTICE.md](NOTICE.md)）。
@@ -80,6 +80,8 @@ tools/               音频分析、字体子集化等脚本
 
 ## English
 
+Video: [bilibili · BV1KSaB6KEdH](https://www.bilibili.com/video/BV1KSaB6KEdH/)
+
 A music video for Neru's *Sore demo Boku wa Utawanakucha*, telling the history of VOCALOID — **every frame rendered by code**.
 TypeScript + three.js on top of [pdoom-video](https://github.com/mexicat/pdoom-video); each frame is a pure function of song time, so the live preview and the offline 1080p60 export match exactly.
 
@@ -95,6 +97,8 @@ Code is MIT; media and narration text belong to their respective rights holders.
 Credits: 帕拉褚特 && Claude Opus 5.5 · narration draft: 现世妍术组.
 
 ## 日本語
+
+動画：[bilibili · BV1KSaB6KEdH](https://www.bilibili.com/video/BV1KSaB6KEdH/)
 
 Neru「それでも僕は歌わなくちゃ」で VOCALOID の歴史を描く MV です。**全フレームをコードでレンダリング**しています（TypeScript + three.js、[pdoom-video](https://github.com/mexicat/pdoom-video) ベース）。
 
